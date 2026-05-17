@@ -215,8 +215,7 @@ If you use the code or the framework in academic work, please cite the paper:
 
 ```bibtex
 @article{hasan2026trustworthy,
-  title  = {A Trustworthy Large Language Model Agent for Wind Turbine
-            Operations and Maintenance},
+  title  = {An Open-Weight Large Language Model Agent for Condition Monitoring and Predictive Maintenance in Wind Energy Systems},
   author = {Hasan, Agus and Widyotriatmo, Augie and Nguyen, Dong Trong},
   year   = {2026},
   note   = {Funded under the Erasmus+ GREENSEA project}
