@@ -1,10 +1,10 @@
 # Wind-LLM-Agent
 
-A **trustworthy Large Language Model agent for wind-turbine operations and maintenance (O\&M)**.
+**An Open-Weight Large Language Model Agent for Condition Monitoring and Predictive Maintenance in Wind Energy Systems**.
 
 This repository is the reference implementation for the paper
 
-> Hasan, A., Widyotriatmo, A., Nguyen, D. T. *A Trustworthy Large Language Model Agent for Wind Turbine Operations and Maintenance.*
+> Hasan, A., Widyotriatmo, A., Nguyen, D. T. *An Open-Weight Large Language Model Agent for Condition Monitoring and Predictive Maintenance in Wind Energy Systems.*
 
 The agent orchestrates a curated library of **five deterministic tools** through an open-weight LLM (Qwen3 served locally via [Ollama](https://ollama.com)), producing **grounded, auditable, and consistent** answers to operator queries about wind-turbine health and maintenance.
 
